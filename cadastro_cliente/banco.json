@@ -1,0 +1,54 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "Jean Paul",
+      "email": "jean.lopes@ulife.com.br",
+      "fones": [
+        "51 99999.9999",
+        "11 5555.5555"
+      ],
+      "categoria": "Comum",
+      "cpf": "123.456.789-00"
+    },
+    {
+      "nome": "Yago",
+      "email": "yago@yago.com.br",
+      "fones": [
+        "1312313123",
+        "1233"
+      ],
+      "categoria": "VIP",
+      "cpf": "24242424234",
+      "id": 2
+    },
+    {
+      "nome": "Almo Contim",
+      "email": "almo@contim.br",
+      "fones": [
+        "123123",
+        "12312"
+      ],
+      "categoria": "VIP",
+      "cpf": "34534535",
+      "id": 3
+    },
+    {
+      "nome": "dfsgsdfg",
+      "email": "sdfgsdfg",
+      "fones": [
+        "dfgsdfg",
+        "sdfg"
+      ],
+      "categoria": "sdfg",
+      "cpf": "sdfg",
+      "id": 4
+    }
+  ],
+  "categorias": [
+    "Comum",
+    "Prospect",
+    "VIP",
+    "Platinum Carbon PG"
+  ]
+}
